@@ -36,10 +36,11 @@ The inventory needs to lead to <a href="#ScopeVisiblity"> visiblity of the scope
 ### <a name="BasisCategories"> Basis for Categories</a>
 The basis for determining action category:
 
-  * Had <strong>prior issues</strong>.
-  * High percentage <strong>Memory usage</strong> or CPU. 
-  * <strong>Slowness</strong> in one module leads to time-outs in modules dependent on them.
+  * Had <strong>prior issues</strong>, especially customer impact.
+  * High percentage <strong>Memory usage</strong> or CPU.
+  * Low utilization (over provisioned).
   * Spikes in <strong>garbage collection</strong>.
+  * <strong>Slowness</strong> in one module leads to time-outs in modules dependent on them.
   * Number and importance of <strong>dependencies</strong>.
   * etc.
 
