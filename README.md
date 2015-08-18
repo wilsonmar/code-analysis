@@ -32,7 +32,7 @@ The inventory needs to lead to <a href="#ScopeVisiblity"> visiblity of the scope
 
  * <strong>Ignore</strong> what can't go wrong.
  * <strong>Watch</strong> what is going well to keep it that way (depend on automatic alerts for more action)
- * <strong>Stabilize</strong> what may be having issues (investigate possible bottlenecks).
+ * <strong>Stabilize</strong> what may be having issues (investigate possible bottlenecks using extended metrics).
  * <strong>Revive</strong> what is exhibiting stress using a full arsenal of profiler tools, etc.
 
 
