@@ -13,6 +13,7 @@ Metrics include # of
  * Services.
  * Code repositories
  * executables, files, classes, instance methods, interfaces, lines of code in each.
+ * threads
 
 The concept here is like an "accounting system" for the software programming assets over time.
 It comes up with counts of various aspects of assets:
@@ -20,6 +21,9 @@ It comes up with counts of various aspects of assets:
   * <strong>Age of code</strong>
   * How much of code is developed by people still around?
   * <strong>What areas in the code is actively worked on</strong>
+  * How long to provision a server.
+  * Hong long from start to useable
+  * Distribution among nodes
   * Lines of code
 
 
@@ -27,8 +31,8 @@ It comes up with counts of various aspects of assets:
 The inventory needs to lead to <a href="#ScopeVisiblity"> visiblity of the scope of work necessary and progress over time</a>. The "work" to manage proactively / strategically:
 
  * <strong>Ignore</strong> what can't go wrong.
- * <strong>Watch</strong> what is going well to keep it that way.
- * <strong>Stabilize</strong> what may be having issues.
+ * <strong>Watch</strong> what is going well to keep it that way (depend on automatic alerts for more action)
+ * <strong>Stabilize</strong> what may be having issues (investigate possible bottlenecks).
  * <strong>Revive</strong> what is exhibiting stress.
 
 
