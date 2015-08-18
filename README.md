@@ -58,8 +58,7 @@ lists all of the tools, including those (like Yasca) which are not actively main
 These automate develop peer reviews.
 
 
-Parasoft is perhaps the most experienced 
-
+Parasoft is perhaps the most experienced at applying coding rules:
  See https://www.youtube.com/watch?v=fLRVcD7EQH8
 
 Parasoft has recently added Service Virtualization with static analysis.
@@ -86,7 +85,9 @@ IBM's Asset Analyzer</a> mines business rules from J2EE code, but uses fossil DB
  * <a target="_blank" href="https://github.com/acaudwell/Gource/wiki/SVN">
    Grouse</a> creates a high-level visualization of a whole repository.
 
- * Interactions among classes can be visualized using a modeling program such as 
+ * http://www.altova.com/umodel/uml-reverse-engineering.html
+   generates UML sequence diagrams from models built from scanning code, so
+   interactions among classes can be visualized using a modeling program such as 
    Enterprise Architect at http://www.sparxsystems.com/ 
 
 
