@@ -104,3 +104,5 @@ A list of code profiler tools is at
 https://blog.idrsolutions.com/2014/06/java-performance-tuning-tools/
 
 JProfiler 
+
+![gcviewer-screenshot](https://cloud.githubusercontent.com/assets/300046/9345524/ce195944-45c6-11e5-8482-52f0ab382a66.png)
