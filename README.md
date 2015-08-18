@@ -1,24 +1,30 @@
-# code-analysis
-Tools and techniques to analyze a body of programming code
-The objectives:
+# code-management
+Currently, all topics are in this one file, which may be split up as this grows.
 
-For a software development organization to manage its code proactively:
+How can enterprise developers and managers get control of its software assets?
 
-  * <a href="#ScopeVisiblity"> Visiblity of the scope of work necessary and progress over time</a>. To obtain this:
-  * <a href="#CodeScanner"> Static Code Scanners to elicit statistics and issues in objects and properties within whole libraries</a>
-  * <a href="#CodeVisualizer"> Visualization of code for quicker understanding</a>
-  * <a href="#CodeProfiler"> Dynamic profiler of code to analyze memory usage at run-time</a>
-
-Currently, each of these is in this one file, which may be split up as this grows.
-<hr />
-## <a name="ScopeVisibility"> Scope dashboard</a>
-The concept here is like an "accounting system" for the software programming assets over time.
+First, an <strong>inventory</strong> is needed.
 Metrics include:
 
  * Number of files in libraries
  * Number of classes, instance methods, interfaces
  * Complexity of code
 
+These can be obtained from <a href="#CodeScanner"> Static Code Scanners to elicit statistics and issues in objects and properties within whole libraries</a>.
+
+But the inventory needs to lead to <a href="#ScopeVisiblity"> visiblity of the scope of work necessary and progress over time</a>. The "work" is to manage code proactively identify:
+
+  * Where memory hogs <a href="#CodeProfiler"> Dynamic profiler of code to analyze memory usage at run-time</a>
+  * Where slowness in one module leads to time-outs in modules dependent on them.
+
+For quicker understanding by developers:
+  * <a href="#CodeVisualizer"> Visualization of code</a>
+
+  * <a href="#CodeProfiler"> Dynamic profiler of code to analyze memory usage at run-time</a>
+
+<hr />
+## <a name="ScopeVisibility"> Scope dashboard</a>
+The concept here is like an "accounting system" for the software programming assets over time.
 It comes up with counts of various aspects of assets:
 
   * <strong>Age of code</strong>
