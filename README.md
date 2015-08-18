@@ -96,4 +96,7 @@ IBM's Asset Analyzer</a> mines business rules from J2EE code, but uses fossil DB
 
 
 ## <a name="CodeProfiler"> Dynamic Code Profiler of code to analyze</a>
+A list of code profiler tools is at
+https://blog.idrsolutions.com/2014/06/java-performance-tuning-tools/
+
 JProfiler 
