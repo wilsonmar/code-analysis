@@ -57,9 +57,6 @@ lists all of the tools, including those (like Yasca) which are not actively main
 
 These automate develop peer reviews.
 
-<a target="_blank" href="https://github.com/acaudwell/Gource/wiki/SVN">
-Grouse</a> creates a high-level visualization of a whole repository.
-
 
 Parasoft is perhaps the most experienced 
 
@@ -81,9 +78,16 @@ Code analysis forensics such as Sextent:
 https://www.youtube.com/watch?v=ocmrAOxT0U4
 
 <a target="_blank" href="http://www-03.ibm.com/software/products/en/raa">
-IBM's Asset Analyzer</a> mines business rules from J2EE code, but uses fossil DB2 COBOL code.
+IBM's Asset Analyzer</a> mines business rules from J2EE code, but uses fossil DB2.
+
 
 ## <a name="CodeVisualizer"> Code Visualizer</a>
+
+ * <a target="_blank" href="https://github.com/acaudwell/Gource/wiki/SVN">
+   Grouse</a> creates a high-level visualization of a whole repository.
+
+ * Interactions among classes can be visualized using a modeling program such as 
+   Enterprise Architect at http://www.sparxsystems.com/ 
 
 
 ## <a name="CodeProfiler"> Dynamic Code Profiler of code to analyze</a>
