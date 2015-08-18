@@ -5,13 +5,14 @@ How can enterprise developers and managers get control (show control) of its sof
 
 ## <a name="Inventory"> Inventory</a>
 First, an <strong>inventory</strong> is needed.
-Metrics include # of regions, servers, services, executables, files, classes, instance methods, interfaces, lines of code in each.
+Metrics include # of 
 
  * Network nodoes.
  * Regions in the cloud.
  * Servers.
  * Services.
- * Code repositories.
+ * Code repositories
+ * executables, files, classes, instance methods, interfaces, lines of code in each.
 
 The concept here is like an "accounting system" for the software programming assets over time.
 It comes up with counts of various aspects of assets:
@@ -19,6 +20,7 @@ It comes up with counts of various aspects of assets:
   * <strong>Age of code</strong>
   * How much of code is developed by people still around?
   * <strong>What areas in the code is actively worked on</strong>
+  * Lines of code
 
 
 ## <a name="ActionCategories"> Action Categories</a>
@@ -42,6 +44,7 @@ The basis for determining action category:
   * Spikes in <strong>garbage collection</strong>.
   * <strong>Slowness</strong> in one module leads to time-outs in modules dependent on them.
   * Number and importance of <strong>dependencies</strong>.
+  * Fall-back being available.
   * etc.
 
  
