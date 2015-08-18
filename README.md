@@ -67,19 +67,18 @@ Parasoft is perhaps the most experienced
 
 Parasoft has recently added Service Virtualization with static analysis.
 
-http://www.coverity.com/products/test-advisor-development/
+ * http://www.coverity.com/products/test-advisor-development/
 
-http://www.grammatech.com/codesonar
+ * http://www.grammatech.com/codesonar
+
+ * https://www.checkmarx.com/technical-partners/ntobjectives/
 
 Many static code analyzers focus on security:
-http://www.klocwork.com/products-services/klocwork
+
+ * http://www.klocwork.com/products-services/klocwork
 
 Code analysis forensics such as Sextent:
 https://www.youtube.com/watch?v=ocmrAOxT0U4
-
-https://www.checkmarx.com/technical-partners/ntobjectives/
-
-Klocwork
 
 <a target="_blank" href="http://www-03.ibm.com/software/products/en/raa">
 IBM's Asset Analyzer</a> mines business rules from J2EE code, but uses fossil DB2 COBOL code.
